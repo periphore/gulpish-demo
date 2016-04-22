@@ -14,9 +14,11 @@ This is a complete working example of gulpish in action.
 ### Available commands are
 
     gulp
-    gulp scripts
-    gulp images
-    gulp styles
+    gulp help
+    gulp build
+    gulp build:scripts
+    gulp build:images
+    gulp build:styles
     gulp watch
     gulp watch:scripts
     gulp watch:styles
