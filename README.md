@@ -1,6 +1,28 @@
 # Gulpish Demo
 Gulpish complete example demo
 
+### Introduction
+
+This is a complete working example of gulpish in action.
+
+### Usage
+
+    git clone https://github.com/periphore/gulpish-demo
+    cd gulpish-demo
+    npm install
+
+### Available commands are
+
+    gulp
+    gulp scripts
+    gulp images
+    gulp styles
+    gulp watch
+    gulp watch:scripts
+    gulp watch:styles
+    gulp watch:images
+
+
 ### The ISC License (ISC)
 
 Copyright (c) 2016, Periphore
