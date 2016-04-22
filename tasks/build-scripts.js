@@ -9,6 +9,8 @@ module.exports = function(gulp, config, plugins) {
       .pipe(plugins.rename({ suffix: '.min' }))
       .pipe(plugins.uglify())
       .pipe(gulp.dest('dist/assets/js'))
-      .pipe(plugins.notify({ message: 'Scripts task complete' }));
+      .pipe(plugins.notify({
+        message: 'Scripts task complete'
+      }));
   }
 }
