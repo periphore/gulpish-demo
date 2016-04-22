@@ -25,6 +25,7 @@
   "homepage": "https://github.com/periphore/gulpish-demo#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.0",
     "gulp-mocha": "^2.2.0",
     "gulpish": "^0.1.3"
   }
